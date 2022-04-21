@@ -19,8 +19,9 @@ header {
     }
 }
 
+/* change after adding logo image
 .logo {
-    width: 6vw;
+    width: 10vw;
 }
 
 @media (max-width: 600px) {
@@ -47,6 +48,7 @@ header {
         margin: 0 auto;
     }
 }
+*/
 
 li {
     list-style: none;
