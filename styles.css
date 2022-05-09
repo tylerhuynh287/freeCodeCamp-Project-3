@@ -28,7 +28,6 @@ header {
     }
 }
 
-/* change after adding logo image
 .logo {
     width: 10vw;
 }
@@ -57,7 +56,6 @@ header {
         margin: 0 auto;
     }
 }
-*/
 
 nav {
     font-weight: 400px;
